@@ -15,7 +15,7 @@ To reproduce the transfer learning results in our paper, simply run *finetune.sh
 
 We release our pre-trained model in folder *models_graphtrans*.
 
-We also give our fine-tune log: srgcl_finetune_log.log fron which we got the results in our paper.
+We also give our fine-tune log: srgcl_finetune_log.log from which we got the results in our paper.
 
 
 
